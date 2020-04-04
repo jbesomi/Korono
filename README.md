@@ -7,16 +7,12 @@
     <img src="https://img.shields.io/github/stars/jbesomi/korono.svg?colorA=orange&colorB=orange&logo=github"
          alt="GitHub stars">
   </a>
-  <a href="https://pypi.org/search/?q=bert-serving">
-      <img src="https://img.shields.io/pypi/v/bert-serving-server.svg?colorB=brightgreen"
-           alt="Pypi package">
-    </a>
   <a href="https://korono.readthedocs.io/">
       <img src="https://readthedocs.org/projects/korono/badge/?version=latest"
            alt="ReadTheDoc">
     </a>
-  <a href="https://pypi.org/search/?q=bert-serving">
-      <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/bert-serving-server">
+  <a href="https://pypi.org/search/?q=korono">
+      <img alt="PyPI - Downloads" src="https://img.shields.io/pypi/dm/korono">
   </a>
   <a href="https://github.com/jbesomi/korono/issues">
         <img src="https://img.shields.io/github/issues/jbesomi/korono.svg"
@@ -25,10 +21,7 @@
   <a href="https://github.com/jbesomi/korono/blob/master/LICENSE">
         <img src="https://img.shields.io/github/license/jbesomi/korono.svg"
              alt="GitHub license">
-  </a>
-  <a href="https://twitter.com/intent/tweet?text=Wow:&url=https%3A%2F%2Fgithub.com%2Fjbesomi%2Fkorono">
-  <img src="https://img.shields.io/twitter/url/https/github.com/jbesomi/korono.svg?style=social" alt="Twitter">
-  </a>      
+  </a>  
 </p>
 
 <p align="center">

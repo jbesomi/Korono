@@ -25,35 +25,34 @@
 </p>
 
 <p align="center">
-   <a href="#what-is-it">What is it</a> •
+   <a href="#why">Why</a> •
    <a href="#getting-started">Getting started</a> •
 </p>
 
 <p align="center">
-    <img src=".github/demo.gif?raw=true" width="700">
+    <img src=".github/ai-coronavirus.png" width="700">
 </p>
 
 
-<h2 align="center">From zero to hero</h2>
+<h2 align="center">Why</h2>
 
-**LIST OF TEXT** ...
-
-- :rocket: **Super-simple-to-use**: ...
--
-More features: ...
-
-<h2 align="center">Installation</h2>
-
-Install korono via `pip`:
-```bash
-pip install korono
-```
-:point_up:  Note that the requirements are **Python >= 3.5** and ...
+COVID-19 research community need answers. Now.
 
 <h2 align="center">Getting started</h2>
 
-#### 1. What is it
+Run server:
+```
+./run_server.sh
+```
 
-> **Optional:** ...
+Run client and ask questions:
+```
+> python
+> from korono import client
+> client.ask_question("What is coronavirus?")
+```
 
-#### 2.
+<h2 align="center">Team</h2>
+
+- Jonathan Besomi
+- Yann Bolliger

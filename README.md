@@ -30,7 +30,7 @@
 </p>
 
 <p align="center">
-    <img src=".github/ai-coronavirus.png" width="700">
+    <img src="github/ai-coronavirus.png" width="700">
 </p>
 
 

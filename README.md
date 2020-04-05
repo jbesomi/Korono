@@ -27,7 +27,8 @@
 <p align="center">
    <a href="#why">Introduction</a> •
    <a href="#getting-started">Getting started</a> •
-   <a href="#getting-started">Under the hoods</a> •
+   <a href="#under-the-hoods">Under the hoods</a> •
+   <a href="#server-and-client-api">Server and Client API</a>
 </p>
 
 <p align="center">
@@ -69,8 +70,9 @@ Run client and ask questions:
 
 #### Server API
 
-- `load_data.get_df()`
-   Returns the underline dataset.
+`load_data.get_df()`
+
+Returns the underline dataset.
 
 - `load_data.get_metadata_df()`
    Returns the CORD-19 metadata pandas DataFrame.
@@ -104,6 +106,3 @@ Run client and ask questions:
 
 - `client.get_answers(question)`
    Return a list of all answers
-
-
-#### Client API

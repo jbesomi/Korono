@@ -1,6 +1,6 @@
-<h1 align="center">Korono</h1>
+<h1 align="center">👑Korono</h1>
 
-<p align="center"></p>
+<p align="center">A Question-Answering system for COVID-19 papers</p>
 
 <p align="center">
   <a href="https://github.com/jbesomi/korono/stargazers">

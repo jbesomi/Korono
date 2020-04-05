@@ -1,5 +1,5 @@
 from korono import client
 
 q = "What is coronavirus?"
-answer = client.ask_question(q)
-print(answer)
+answers = client.get_answers(q)
+print(answers)

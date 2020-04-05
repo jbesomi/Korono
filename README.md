@@ -92,13 +92,13 @@ Run client and ask a question:
    Return a JSON object of the form:
 ```json
       {
-         'results': {[
+         "results": [
                {
-               'context': 'coronavirus is an infectious disease',
-               'question': 'what is coronavirus?'
-               'answer': 'an infectious disease',
+               "context": "coronavirus is an infectious disease",
+               "question": "what is coronavirus?",
+               "answer": "an infectious disease",
                },
-         ]}
+         ]
       }
 ```
 

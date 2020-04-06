@@ -1,0 +1,19 @@
+{
+  "files": {
+    "main.js": "/korono/static/js/main.e7da1c6b.chunk.js",
+    "main.js.map": "/korono/static/js/main.e7da1c6b.chunk.js.map",
+    "runtime-main.js": "/korono/static/js/runtime-main.72642137.js",
+    "runtime-main.js.map": "/korono/static/js/runtime-main.72642137.js.map",
+    "static/js/2.48a765ef.chunk.js": "/korono/static/js/2.48a765ef.chunk.js",
+    "static/js/2.48a765ef.chunk.js.map": "/korono/static/js/2.48a765ef.chunk.js.map",
+    "index.html": "/korono/index.html",
+    "precache-manifest.af9c7121c1ed86335813a241e5938308.js": "/korono/precache-manifest.af9c7121c1ed86335813a241e5938308.js",
+    "service-worker.js": "/korono/service-worker.js",
+    "static/js/2.48a765ef.chunk.js.LICENSE.txt": "/korono/static/js/2.48a765ef.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.72642137.js",
+    "static/js/2.48a765ef.chunk.js",
+    "static/js/main.e7da1c6b.chunk.js"
+  ]
+}

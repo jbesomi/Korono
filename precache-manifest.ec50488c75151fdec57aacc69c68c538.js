@@ -1,6 +1,6 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "2279c0d831330606e0be0b81f879aefe",
+    "revision": "79bfdf081208b93c2e5bba6fb77772cf",
     "url": "/Korono/index.html"
   },
   {

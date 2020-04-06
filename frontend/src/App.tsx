@@ -4,9 +4,20 @@ import Toolbar from "@material-ui/core/Toolbar"
 import Typography from "@material-ui/core/Typography"
 import Container from "@material-ui/core/Container"
 import Paper from "@material-ui/core/Paper"
-import makeStyles from "@material-ui/core/styles/makeStyles"
+import {
+  createMuiTheme,
+  makeStyles,
+  ThemeProvider
+} from "@material-ui/core/styles"
 
 import Tasks from "./Tasks"
+
+const theme = createMuiTheme({
+  palette: {
+    primary: { main: "#bf360c" },
+    secondary: { main: "#6d4c41" }
+  }
+})
 
 const useStyles = makeStyles(theme => ({
   logo: {
@@ -34,7 +45,7 @@ const useStyles = makeStyles(theme => ({
 const App: React.FC<{}> = () => {
   const classes = useStyles()
   return (
-    <>
+    <ThemeProvider theme={theme}>
       <AppBar>
         <Toolbar>
           <Typography variant="h3" className={classes.logo}>
@@ -53,7 +64,7 @@ const App: React.FC<{}> = () => {
           </Paper>
         </Container>
       </main>
-    </>
+    </ThemeProvider>
   )
 }
 export default App

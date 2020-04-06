@@ -11,6 +11,7 @@ import {
 } from "@material-ui/core/styles"
 
 import Tasks from "./Tasks"
+import './css/gh-fork-ribbon.css';
 
 const theme = createMuiTheme({
   palette: {
@@ -57,6 +58,7 @@ const App: React.FC<{}> = () => {
         </Toolbar>
       </AppBar>
       <main className={classes.content}>
+        <a className="github-fork-ribbon" href="https://github.com/jbesomi/Korono" data-ribbon="Fork me on GitHub" title="Fork me on GitHub">Fork me on GitHub</a>
         <div className={classes.appBarSpacer} />
         <Container className={classes.container}>
           <Paper className={classes.paper}>

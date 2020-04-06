@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.js": "/korono/static/js/main.7ff50193.chunk.js",
-    "main.js.map": "/korono/static/js/main.7ff50193.chunk.js.map",
-    "runtime-main.js": "/korono/static/js/runtime-main.72642137.js",
-    "runtime-main.js.map": "/korono/static/js/runtime-main.72642137.js.map",
-    "static/js/2.4ad28147.chunk.js": "/korono/static/js/2.4ad28147.chunk.js",
-    "static/js/2.4ad28147.chunk.js.map": "/korono/static/js/2.4ad28147.chunk.js.map",
-    "index.html": "/korono/index.html",
-    "precache-manifest.7766cd7852663a19b2f3cbdb75a135cc.js": "/korono/precache-manifest.7766cd7852663a19b2f3cbdb75a135cc.js",
-    "service-worker.js": "/korono/service-worker.js",
-    "static/js/2.4ad28147.chunk.js.LICENSE.txt": "/korono/static/js/2.4ad28147.chunk.js.LICENSE.txt"
+    "main.js": "/Korono/static/js/main.1b2e1b32.chunk.js",
+    "main.js.map": "/Korono/static/js/main.1b2e1b32.chunk.js.map",
+    "runtime-main.js": "/Korono/static/js/runtime-main.d78c3060.js",
+    "runtime-main.js.map": "/Korono/static/js/runtime-main.d78c3060.js.map",
+    "static/js/2.4ad28147.chunk.js": "/Korono/static/js/2.4ad28147.chunk.js",
+    "static/js/2.4ad28147.chunk.js.map": "/Korono/static/js/2.4ad28147.chunk.js.map",
+    "index.html": "/Korono/index.html",
+    "precache-manifest.7ad0eaa2e2c29b71b2d34227c1eb219d.js": "/Korono/precache-manifest.7ad0eaa2e2c29b71b2d34227c1eb219d.js",
+    "service-worker.js": "/Korono/service-worker.js",
+    "static/js/2.4ad28147.chunk.js.LICENSE.txt": "/Korono/static/js/2.4ad28147.chunk.js.LICENSE.txt"
   },
   "entrypoints": [
-    "static/js/runtime-main.72642137.js",
+    "static/js/runtime-main.d78c3060.js",
     "static/js/2.4ad28147.chunk.js",
-    "static/js/main.7ff50193.chunk.js"
+    "static/js/main.1b2e1b32.chunk.js"
   ]
 }

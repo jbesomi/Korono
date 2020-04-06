@@ -2,7 +2,7 @@
   "name": "frontend",
   "version": "0.1.0",
   "private": true,
-  "homepage": "http://jbesomi.github.io/korono",
+  "homepage": "http://jbesomi.github.io/Korono/",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
